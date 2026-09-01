@@ -1,0 +1,6 @@
+{
+  "name": "Student Portal Dashboard",
+  "description": "A comprehensive, modern student dashboard for college students featuring attendance tracking, academic grades, GPA analytics, achievement showcases, upcoming deadlines, faculty announcements, and student profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
